@@ -12,5 +12,6 @@ public class Main {
             coordinates.add(new Coordinates(i, i));
         }
         System.out.println(coordinates);
+        Coordinates coordinates2 = new Coordinates(3, 7);
     }
 }
