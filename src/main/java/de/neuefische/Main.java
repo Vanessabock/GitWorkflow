@@ -2,8 +2,6 @@ package de.neuefische;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-
-
+        Coordinates coordinates = new Coordinates(3, 7);
     }
 }
